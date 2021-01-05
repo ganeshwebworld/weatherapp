@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ganesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.0.0",
+    "hbs": "^4.0.1",
+    "request": "^2.88.0"
+  }
+}
